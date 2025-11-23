@@ -1,0 +1,5 @@
+{
+  "name": "Abhinav Syllabus Analyzer x",
+  "description": "An application that uses AI to analyze a course syllabus, extract exam dates and topics, and helps users add them to their Google Calendar.",
+  "requestFramePermissions": []
+}
